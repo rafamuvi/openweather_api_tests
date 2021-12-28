@@ -1,0 +1,12 @@
+{
+    "description": "bad request - GET 400",
+    "type": "object",
+    "properties": {
+        "cod": {
+            "type": "string"
+        },
+        "message": {
+            "type": "string"
+        }
+    }
+}

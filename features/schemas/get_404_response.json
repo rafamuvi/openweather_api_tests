@@ -1,0 +1,12 @@
+{
+    "description": "city not found response schema - GET 404",
+    "type": "object",
+    "properties": {
+        "cod": {
+            "type": "string"
+        },
+        "message": {
+            "type": "string"
+        }
+    }
+}
