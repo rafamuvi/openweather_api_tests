@@ -38,6 +38,7 @@
 |   |
 |   |---specifications
 |   |   |   get_weather.feature
+|   |   |   weather_units.feature
 |   |
 |   |---step_definitions
 |   |   |   get_weather.rb
